@@ -6,6 +6,7 @@ docker-compose exec cat file.<version>.txt
 
 Desired container file system:
 ```shell script
+File - - - - - Contents
 |- /src
 |-- file.a.txt (host)
 |-- file.b.txt (host)
